@@ -1,0 +1,23 @@
+{
+  "name": "frontmentor-challenge-2-qrcodecomponent",
+  "version": "1.0.0",
+  "description": "Migrando el proyecto de CSS a Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/app.scss css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freivys/FrontMentor-Challenge-2-QrCodeComponent.git"
+  },
+  "author": "Freivys Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freivys/FrontMentor-Challenge-2-QrCodeComponent/issues"
+  },
+  "homepage": "https://github.com/freivys/FrontMentor-Challenge-2-QrCodeComponent#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
